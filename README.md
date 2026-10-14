@@ -1,6 +1,6 @@
 # 👋 Selam, Ben emrhnyck!
 
-🌱 Yazılım & Sistem Öğrenicisi (Student & Learner)
+🌱 Yazılım & Sistem Öğrenicisi 
 
 ---
 
