@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Selam, Ben emrhnyck!
 
-<!--
-**emrhnyck/emrhnyck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Yazılım & Sistem Öğrenicisi (Student & Learner)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Hakkımda
+- 🎯 **Hedefim:** Yazılım ve sistem dünyasını adım adım keşfetmek.
+- 📚 **Şu An Ne Öğreniyorum?:** Güncel olarak üzerine çalıştığım teknolojiler ve temeller.
+- 🐧 **Kullandığım Sistem:** Windows / Linux Debian
+- 🛠️ **Kod Editörü:** VS Code
+
+---
+
+### 🛠️ İlgi Alanlarım & Teknolojiler
+![Python](https://img.shields.io/badge/Python-Keşfediyorum-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Aktif-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Öğreniyorum-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=emrhnyck&show_icons=true&theme=dark" alt="emrhnyck github stats" width="400" />
+</p>
